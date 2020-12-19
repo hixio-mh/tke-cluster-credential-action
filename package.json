@@ -13,6 +13,6 @@
     "@actions/core": "^1.2.2",
     "@actions/github": "^2.1.1",
     "tencentcloud-sdk-nodejs": "^3.0.121",
-    "yaml": "^1.7.2"
+    "yaml": "^1.10.0"
   }
 }
